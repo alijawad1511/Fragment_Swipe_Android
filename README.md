@@ -18,9 +18,10 @@ In this Project, I have created three fragments and shown how to change Fragment
 ## 📥 Download From
 https://github.com/alijawad1511/Swipe_Fragments_Android
 
-#### If you like my work, please start following this project's author [Syed Ali Jawad](https://github.com/alijawad1511) and don't hesitate to give star⭐ to my project to show your ❤️❤️ and support
+## Credit
+If you like my work, please start following this project's author [Syed Ali Jawad](https://github.com/alijawad1511) and don't hesitate to give star⭐ to my project to show your ❤️❤️ and support
 
-## 📞 Contact me at:
+## 📞 Contact
 - [LinkedIn](https://www.linkedin.com/in/alijawad1511)
 - [GitHub](https://github.com/alijawad1511)
 - [Gmail](mailto:jawad.bukhari1511@gmail.com)
